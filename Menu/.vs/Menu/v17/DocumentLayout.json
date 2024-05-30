@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D55A89-7CE8-49CB-A3D9-00C61789D4E3}|Menu\\Menu.csproj|C:\\Users\\Alumno\\source\\repos\\Menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D55A89-7CE8-49CB-A3D9-00C61789D4E3}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D55A89-7CE8-49CB-A3D9-00C61789D4E3}|Menu\\Menu.csproj|c:\\users\\alumno\\source\\repos\\menu\\menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D55A89-7CE8-49CB-A3D9-00C61789D4E3}|Menu\\Menu.csproj|solutionrelative:menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D55A89-7CE8-49CB-A3D9-00C61789D4E3}|Menu\\Menu.csproj|C:\\Users\\Alumno\\source\\repos\\Menu\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D55A89-7CE8-49CB-A3D9-00C61789D4E3}|Menu\\Menu.csproj|solutionrelative:menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Menu\\Menu\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Menu\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Menu\\Menu\\MenuPrincipal.cs",
+              "RelativeToolTip": "Menu\\MenuPrincipal.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:33:35.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Menu\\Menu\\Program.cs",
+              "RelativeDocumentMoniker": "Menu\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Menu\\Menu\\Program.cs",
+              "RelativeToolTip": "Menu\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:29:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\Menu\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\Menu\\Menu\\Menu.cs",
+              "RelativeToolTip": "Menu\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:18:31.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
